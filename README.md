@@ -1,10 +1,10 @@
 # TurboWarp/scratch-paint
 
-Modified version of scratch-paint for TurboWarp
+Modified version of scratch-paint
 
 ## License
 
-TurboWarp/scratch-paint is licensed under the GNU General Public License version 3.0. See LICENSE for more information.
+License will be added soon.
 
 The original scratch-paint that this is based on uses the following license:
 
